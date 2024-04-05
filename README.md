@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahelyibrish
-- 👀 I’m interested in becoming a full-stack developer
-- 🌱 I’m currently learning HTML, CSS and JavaScript 
+- 👀 I currently work as a full-stack developer within the civil service
+- 🌱 I’m skilled in HTML, CSS and JavaScript and ReactJs 
 - 💞️ I’m looking to collaborate on everything related to coding
 - 📫 You can reach me via email on rahel.yibrish@gmail.com
 
